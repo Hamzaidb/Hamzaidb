@@ -12,7 +12,7 @@
    - Outils : Git, Visual Studio Code, IntelliJ, PHPStorm
    - Base de données : MySQL, MongoDB
 
-🌱 Actuellement en train d'apprendre la conception d'applications mobiles notamment avec Kotlin
+🌱 Actuellement en train d'apprendre la conception d'applications mobiles notamment avec Kotlin et le monde de la 3d avec Three.js
 
 📫 Vous pouvez me contacter à cette adresse mail : hamzaidblhy@gmail.com
 
