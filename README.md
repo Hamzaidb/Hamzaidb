@@ -1,5 +1,3 @@
-[![MasterHead](https://media.sproutsocial.com/uploads/LinkedIn-Personal5B-Design.jpg)]
-
 <h1 align="center">Hi 👋, I'm Hamza Idbouiguiguane</h1>
 <h3 align="center">A passionate Web developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
