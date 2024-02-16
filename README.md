@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Idbouiguiguane</h1>
 <h3 align="center">A passionate Web developer from France</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/233cae59766e638fedb581a9eed303a1a9d427b37e28374bd321dc7015ed48a2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f667265796d776f726b2f696d6167652f75706c6f61642f76313634313531353134372f616e696d6174696f6e5f3530305f6b786138383373645f6e73613437302e676966">
+<img align="right" alt="Coding" width="400" src="https://ouch-cdn2.icons8.com/lo_iPzz8CmWjSNwRtHLySMle_OcoVs4fAnwJ3_GrLl4/rs:fit:368:230/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvODg3/LzEwZTE1ZDEwLWRl/YTEtNDFjZC05Y2Q3/LWIyMGI0MzBlMGRm/My5zdmc.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaidb&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaidb" /> </p>
